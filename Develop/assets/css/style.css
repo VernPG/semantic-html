@@ -15,7 +15,7 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.header h1 nav {
     display: inline-block;
     font-size: 48px;
 }
