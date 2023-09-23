@@ -16,4 +16,4 @@
     
     
 **[Repo can be found at] (https://github.com/VernPG/semantic-html.git)**
-![]
+![Horiseon-The Web Consultants](https://vernpg.github.io/semantic-html/)
