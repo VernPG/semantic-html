@@ -16,4 +16,4 @@
     
     
 **[Repo can be found at] (https://github.com/VernPG/semantic-html.git)**
-![!Horiseon (<Screen Shot 2023-09-22 at 9.57.41 AM (2).png>)]
+![]
