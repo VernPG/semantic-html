@@ -15,5 +15,9 @@
     Condensed areas in CSS such as benefit-lead-brand-cost, img, class, content to be under same command
     
     
-**[Repo can be found at] (https://github.com/VernPG/semantic-html.git)**
-![Horiseon-The Web Consultants](https://vernpg.github.io/semantic-html/)
+**[Repo can be found HERE](https://github.com/VernPG/semantic-html.git)**
+
+
+**[Follow this link to visit Horiseon-The Web Consultants](https://vernpg.github.io/semantic-html/)**
+
+![Preview image](./Assets/images/01-html-css-git-homework-demo.png)
